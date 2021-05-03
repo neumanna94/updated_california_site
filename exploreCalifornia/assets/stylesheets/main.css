@@ -5,7 +5,7 @@ Stylesheet for Explore California
 
 ©2019 LinkedIn Learning
 This style sheet may be reused for personal education only
-any reuse, educational or otherwise, without the expressed 
+any reuse, educational or otherwise, without the expressed
 consent of LinkedIn Learning is prohibited.
 */
 
@@ -22,9 +22,9 @@ consent of LinkedIn Learning is prohibited.
 #896287 : purple
 */
 
-/* to jump to a specific section search for the unique character pair at the front of each TOC section 
+/* to jump to a specific section search for the unique character pair at the front of each TOC section
   <<<tip, highlight the special character and use the shortcut for Find Selection Cntr/Cmd + Shift + G >> */
-  
+
   /* ----- Style sheet TOC ----------------
       ^1 Global constants
     ^2 Global classes
@@ -71,7 +71,7 @@ p {
 
 body {
   font: 100% Georgia, "Times New Roman", Times, serif;
-  background: #3C6B92;
+  background: #00cae4;
 }
 
 /* ^2 ------ global classes -------- */
@@ -98,7 +98,7 @@ span.accent {
 }
 /* ^3 ------------- home page specfic layout styles ----------- */
 #home #wrapper {
-  background: #000 url(../images/home_page_back.jpg) no-repeat 0 100px;
+  background: #000 url(../images/home_page_back.jpg) no-repeat 0 100px;*/
 }
 #actionCall {
   height: 328px;
@@ -287,7 +287,7 @@ span.accent {
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
   border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px; 
+  border-bottom-left-radius: 10px;
   width: 100%;
   background: #fff;
 }
@@ -756,7 +756,7 @@ span.accent {
   padding-bottom: 1em;
   padding-right: 2em;
 }
-/* footer region ^5h */  
+/* footer region ^5h */
 #pageFooter div {
   float: left;
   width: 341px;
